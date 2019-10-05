@@ -1,13 +1,13 @@
 body {
-  background-color: #f16059;
+  background-color: #6A89CC;
 }
 .page {
   width: 80%;
   max-width: 960px;
   margin: 50px auto;
   text-align: center;
-  background-color: #f16059;
-  border-radius: 5px;
+  background-color:white;
+  border-radius: 20px;
 }
 body {
   font: 14px/26px 'Bungee', Helvetica, Arial, sans-serif;
@@ -59,7 +59,7 @@ blockquote:after { content: '"'; }
   padding: 10px 0;
 }
 #partyTimeButton {
-  background-color: #222;
+  background-color: rgb(35, 168, 106);
   width: 300px;
   font-family: 'Bungee', cursive;
   font-size: 18px;
@@ -72,5 +72,5 @@ blockquote:after { content: '"'; }
 
 footer p {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 10px;
 }
